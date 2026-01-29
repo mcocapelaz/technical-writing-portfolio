@@ -579,5 +579,5 @@ MIT License - feel free to use this project for learning, personal, or commercia
 
 ## Contact
 
-- **GitHub:** [https://github.com/mcocapelaz/](https://github.com/mcocapelaz/)
-- **LinkedIn:** [https://www.linkedin.com/in/mcocapelaz/] (https://www.linkedin.com/in/mcocapelaz/)
+- **GitHub:** [@mcocapelaz](https://github.com/mcocapelaz/)
+- **LinkedIn:** [Mónica Coca](https://www.linkedin.com/in/mcocapelaz/)
