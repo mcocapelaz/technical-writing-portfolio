@@ -1,5 +1,18 @@
 # Task Manager API Documentation
 
+## API Endpoints Overview
+
+```mermaid
+flowchart TD
+    Start[Client Request] --> Auth{Authenticated?}
+    Auth -->|Yes| Endpoints[Available Endpoints]
+    Auth -->|No| Error[401 Unauthorized]
+    
+    Endpoints --> POST[POST /tasks]
+    Endpoints --> GET[GET /tasks]
+    Endpoints --> PUT[PUT /tasks/:id]
+    Endpoints --> DELETE[DELETE /tasks/:id]
+
 ## Overview
 
 This guide provides you with all the necessary knowledge to build a Task Manager API, a simple REST API built with Node.js and Express that allows you to manage tasks. 
