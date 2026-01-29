@@ -1,6 +1,7 @@
 # Task Manager API Documentation
 
-![API Endpoints Diagram](./images/Task%20Manager%20API%20Flow.png)
+<img src="./images/Task Manager API Flow.png" alt="API Endpoints Diagram" width="600">
+
 
 ## Overview
 
