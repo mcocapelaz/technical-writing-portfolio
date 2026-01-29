@@ -104,7 +104,7 @@ This is the **expected response** you should see:
 }
 ```
 
-**Note:** If the server doesn't respond or returns an error, don't worry! Go to the [Troubleshooting](#troubleshooting) section and check possible issues. 
+**Note:** If the server doesn't respond or returns an error, don't worry! Go to the [Troubleshooting Installation](#troubleshooting-installation) section and check possible issues. 
 
 **Important:** Tasks you create are stored in memory and will be reset when you restart the server. See the [Data Storage](#data-storage) section for more details.
 
