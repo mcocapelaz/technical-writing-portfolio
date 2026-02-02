@@ -3,20 +3,20 @@
 
 ## About Me
 
-**Technical Writer** specializing in developer documentation, with 25+ years of experience making complex information accessible. 
+**Early-career Technical Writer** specializing in developer documentation, with a strong background in journalism and hands-on experience in web technologies.
 
-**What I bring:** Journalism background (clear storytelling) + hands-on coding experience (I speak developer) = documentation that actually helps users accomplish tasks.
+**What I bring:** Journalism-trained clarity + hands-on coding experience → documentation that helps users get things done.
 
-**Currently expanding my training through:** Google Technical Writing Course, Platzi TW Course and GitLab University Certification.
+**Currently strengthening my technical writing practice through:** Google Technical Writing Course, Platzi TW Course and GitLab University Certification.
 
 ## Skills & Tools
-**Technical Skills:**
+**Technical Writing:**
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Development Skills:**
+**Web Development:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -60,7 +60,7 @@ I don't just document features—I document **user goals**.
 
 Every guide I write answers: *"What is the user trying to accomplish, and what's the fastest path to get there?"*
 
-**My advantage:** 25+ years of journalism taught me to make complex topics accessible. Recent coding training taught me to think like a developer. Together? Documentation that actually works.
+**My advantage:** 25+ years of journalism taught me to make complex topics accessible. Recent coding training taught me to think like a developer. Together? Documentation focused on task completion, clarity, and real-world developer workflows.
 
 ## Let's talk 
 
