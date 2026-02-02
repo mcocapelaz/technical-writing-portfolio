@@ -45,6 +45,15 @@
 - **Highlights:** Interactive examples, error handling guide, code samples in multiple languages
 - **Topics**: REST APIs, CRUD operations, JSON
 
+
+### Git Panic Station
+
+**[Survival Guide for Junior Developers](https://github.com/mcocapelaz/technical-writing-portfolio/blob/main/writing-samples/troubleshooting/Git-Panic-Station.md)**
+- **Audience:** Junior developers (0-2 years) experiencing Git emergencies
+- **Challenge solved:** Transformed intimidating Git troubleshooting into an empathetic, urgency-based guide that reduces panic and provides immediate solutions
+- **Highlights:** Organized by panic levels (🟢 Mild → 🔴 Full → 🚨 Nuclear), real-world scenarios, prevention integrated in every section, visual ASCII diagrams, step-by-step recovery instructions
+- **Topics**: Git workflows, merge conflicts, commit management, branch operations, reflog recovery, force-push accidents, secrets in history, stash operations
+
 ## My Approach
 
 I don't just document features—I document **user goals**.
