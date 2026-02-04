@@ -1,13 +1,15 @@
-# Technical Writing Portfolio: Mónica Coca
+# Mónica Coca | Technical Writer & Web Developer
 >Creating clear, user-centered documentation for web technologies
 
 ## About Me
 
-**Early-career Technical Writer** specializing in developer documentation, with a strong background in journalism and hands-on experience in web technologies.
+**Hybrid Technical Writer** specializing in developer documentation, with a strong background in journalism and hands-on experience in web technologies.
+I don't just write about code; I test it, break it, and then document the most efficient path for the user. 
+My journalism background allows me to interview SMEs (Subject Matter Experts) effectively, while my coding skills allow me to validate every step in the terminal.
 
 **What I bring:** Journalism-trained clarity + hands-on coding experience → documentation that helps users get things done.
 
-**Currently strengthening my technical writing practice through:** Google Technical Writing Course, Platzi TW Course and GitLab University Certification.
+**Current Focus:** Implementing **Docs-as-Code** workflows and completing certifications from **Google Technical Writing**, **GitLab University**, and **Platzi**.
 
 ## Skills & Tools
 **Technical Writing:**
